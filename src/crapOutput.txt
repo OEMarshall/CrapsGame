@@ -1,0 +1,104 @@
+Instructions ... blah blah blah... 
+User bet 10.0 on first roll and 4.0 on the point roll
+Computer bet: 373.0
+The game starts...
+User rolled 6 first.
+User rolled: 12
+User rolled: 6
+User won: 377.0
+________________________________________________
+Instructions ... blah blah blah... 
+User bet 10.0 on first roll and 4.0 on the point roll
+Computer bet: 167.0
+The game starts...
+User rolled 8 first.
+User rolled: 4
+User rolled: 7
+User lost 14.0
+User bet 40.0 on first roll and 41.555555555555 on the point roll
+Computer bet: 137.0
+The game starts...
+User rolled 10 first.
+User rolled: 3
+User rolled: 12
+User rolled: 11
+User rolled: 5
+User rolled: 8
+User rolled: 3
+User rolled: 10
+User won: 178.555555555555
+________________________________________________
+Welcome to the game.
+All transactions are in ￥
+All transactions are final... until you start the game again...
+User bet 10.0 on first roll and 40.0 on the point roll
+Computer bet: 151.0
+The game starts...
+User rolled 3 first.
+User lost 50.0 on first roll. Wow...
+User bet 40.0 on first roll and 10.0 on the point roll
+Computer bet: 395.0
+The game starts...
+User rolled 2 first.
+User lost 50.0 on first roll. Wow...
+User bet 40.0 on first roll and 10.0 on the point roll
+Computer bet: 176.0
+The game starts...
+User rolled 6 first.
+User rolled: 6
+User won: 186.0
+User bet 10.0 on first roll and 40.0 on the point roll
+Computer bet: 78.0
+The game starts...
+User rolled 6 first.
+User rolled: 12
+User rolled: 6
+User won: 118.0
+User bet 10.0 on first roll and 50.0 on the point roll
+Computer bet: 360.0
+The game starts...
+User rolled 8 first.
+User rolled: 5
+User rolled: 3
+User rolled: 9
+User rolled: 6
+User rolled: 10
+User rolled: 8
+User won: 410.0
+________________________________________________
+Welcome to the game.
+ All transactions are in ￥ 
+All transactions are final... 
+ until you start the game again...
+User bet 10.0 on first roll and 40.0 on the point roll
+Computer bet: 6.0
+The game starts...
+User rolled 9 first.
+User rolled: 9
+User won: 46.0
+________________________________________________
+Welcome to the game.All transactions are in ￥All transactions are final... 
+ until you start the game again...
+User bet 10.0 on first roll and 15.0 on the point roll
+Computer bet: 392.0
+The game starts...
+User rolled 8 first.
+User rolled: 4
+User rolled: 9
+User rolled: 5
+User rolled: 4
+User rolled: 4
+User rolled: 6
+User rolled: 9
+User rolled: 8
+User won: 407.0
+________________________________________________
+Welcome to the game.All transactions are in ￥All transactions are final... 
+ until you start the game again...
+User bet 10.555 on first roll and 140.0 on the point roll
+Computer bet: 266.0
+The game starts...
+User rolled 9 first.
+User rolled: 9
+User won: 406.0
+________________________________________________
